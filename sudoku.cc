@@ -2,7 +2,6 @@
 # #
 # Sudoku.cc #
 # Lucas Barusek #
-# Project 3: Sudoku #
 # 3/5/19 #
 # #
 This code takes input of a partially filled sudoku board which has a unique
