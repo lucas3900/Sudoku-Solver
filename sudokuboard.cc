@@ -2,7 +2,6 @@
 # #
 # sudokuboard.cc #
 # Lucas Barusek #
-# Project 3: Sudoku #
 # 3/5/19 #
 # #
 Creates a sudoku board using dynamically created array of arrays. Each
