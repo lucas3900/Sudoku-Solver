@@ -2,7 +2,6 @@
 # #
 # stack.h #
 # Lucas Barusek #
-# Project 3: Sudoku #
 # 3/5/19 #
 # #
 A Linked list based stack which stores data in a linked list of nodes.
